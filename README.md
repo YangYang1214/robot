@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # WECHATY-PUPPET-PADPRO
 
 [![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-blue.svg)](https://github.com/chatie/wechaty)
@@ -86,4 +86,3 @@ PADPRO_REPLAY_MESSAGE=true node bot.js
 Apache-2.0
 =======
 # robot
->>>>>>> 7f69003383790bda186ae69013f45b75fe9cb321
