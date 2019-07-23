@@ -1,5 +1,5 @@
 {
-  "name": "wechaty-puppet-padpro",
+  "name": "wechat-padpro",
   "version": "0.3.9",
   "description": "Padpro Puppet for Wechaty",
   "directories": {
@@ -98,6 +98,8 @@
     "socks5-client": "^1.2.6",
     "socks5-http-client": "^1.0.4",
     "uuid": "^3.3.2",
+    "wechaty": "^0.26.1",
+    "wechaty-puppet-padpro": "^0.2.1",
     "xml2js": "^0.4.19"
   },
   "git": {
